@@ -1,0 +1,837 @@
+canonical_identifier: bkk:krp/KR3eq041/v1
+canonical_location: https://kanripo.org/bkk/KR3eq041/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫醫病書
+  identifiers:
+    krp: KR3eq041
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq041.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq041_000.yaml, hash: 'sha256:506511cf87e38fda81bd4b151d818577e59f25e9506b640b2e8bd0996845cc18'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq041_000.markers.yaml, hash: 'sha256:b6143bcafed037cf160cd5decd809494775eb1a9c58e26ad89b7b8006aab90c6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 894
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d3.h1s1
+    span:
+    - front
+    - 894
+    - 1463
+  label: 增訂醫醫病書序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d4.h1s1
+    span:
+    - front
+    - 1463
+    - 1878
+  label: 增訂醫醫病書序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 786
+  label: 吳鞠通傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d6.h1s1
+    span:
+    - body
+    - 786
+    - 881
+  label: 題詞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d7.h1s1
+    span:
+    - body
+    - 881
+    - 1131
+  label: 一醫非上智不能論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d8.h1s1
+    span:
+    - body
+    - 1131
+    - 1365
+  label: 二氣運論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d9.h1s1
+    span:
+    - body
+    - 1365
+    - 1590
+  label: 三醫不明六氣論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d10.h1s1
+    span:
+    - body
+    - 1590
+    - 1943
+  label: 四醫必備四時五行六氣論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d11.h1s1
+    span:
+    - body
+    - 1943
+    - 2321
+  label: 五三元氣候不同論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d12.h1s1
+    span:
+    - body
+    - 2321
+    - 2522
+  label: 六藥物體用論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d13.h1s1
+    span:
+    - body
+    - 2522
+    - 3365
+  label: 七五臟六腑體用治法論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d14.h1s1
+    span:
+    - body
+    - 3365
+    - 3589
+  label: 八藥不能治病論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d15.h1s1
+    span:
+    - body
+    - 3589
+    - 4064
+  label: 九看病須察兼症論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d16.h1s1
+    span:
+    - body
+    - 4064
+    - 4238
+  label: 十答病家怕不怕論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d17.h1s1
+    span:
+    - body
+    - 4238
+    - 4592
+  label: 十一用古方必求其立方之故論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d18.h1s1
+    span:
+    - body
+    - 4592
+    - 4877
+  label: 十二診病以現症為主不必拘執古方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d19.h1s1
+    span:
+    - body
+    - 4877
+    - 5133
+  label: 十三不讀古書論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d20.h1s1
+    span:
+    - body
+    - 5133
+    - 5529
+  label: 十四好博而不務精詳論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d21.h1s1
+    span:
+    - body
+    - 5529
+    - 5688
+  label: 十五果達藝三者缺一不可論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d22.h1s1
+    span:
+    - body
+    - 5688
+    - 5792
+  label: 十六見理見事真切不恤人言論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d23.h1s1
+    span:
+    - body
+    - 5792
+    - 6056
+  label: 十七治內傷須祝由論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d24.h1s1
+    span:
+    - body
+    - 6056
+    - 6390
+  label: 十八治內傷須辨明陰陽三焦論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d25.h1s1
+    span:
+    - body
+    - 6390
+    - 6861
+  label: 十九無論三因皆以胃氣為要論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d26.h1s1
+    span:
+    - body
+    - 6861
+    - 7072
+  label: 二十時醫俗醫病論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d27.h1s1
+    span:
+    - body
+    - 7072
+    - 7185
+  label: 二十一名醫病論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d28.h1s1
+    span:
+    - body
+    - 7185
+    - 7335
+  label: 二十二論藥不論病論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d29.h1s1
+    span:
+    - body
+    - 7335
+    - 7461
+  label: 二十三醫者有好用之藥有畏用之藥論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d30.h1s1
+    span:
+    - body
+    - 7461
+    - 7583
+  label: 二十四世醫不知通補守補法論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d31.h1s1
+    span:
+    - body
+    - 7583
+    - 7720
+  label: 二十五補虛先去實論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d32.h1s1
+    span:
+    - body
+    - 7720
+    - 7889
+  label: 二十六俗傳虛不受補論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d33.h1s1
+    span:
+    - body
+    - 7889
+    - 8112
+  label: 二十七陽大陰小論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d34.h1s1
+    span:
+    - body
+    - 8112
+    - 8341
+  label: 二十八陰常有餘陽常不足論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d35.h1s1
+    span:
+    - body
+    - 8341
+    - 9119
+  label: 二十九虛勞論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d36.h1s1
+    span:
+    - body
+    - 9119
+    - 9376
+  label: 三十吐血論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d37.h1s1
+    span:
+    - body
+    - 9376
+    - 9488
+  label: 三十一便血論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d38.h1s1
+    span:
+    - body
+    - 9488
+    - 9717
+  label: 三十二溺血論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d39.h1s1
+    span:
+    - body
+    - 9717
+    - 9892
+  label: 三十三小便論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d40.h1s1
+    span:
+    - body
+    - 9892
+    - 10070
+  label: 三十四大便論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d41.h1s1
+    span:
+    - body
+    - 10070
+    - 10422
+  label: 三十五頭痛論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d42.h1s1
+    span:
+    - body
+    - 10422
+    - 10648
+  label: 三十六經閉論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d43.h1s1
+    span:
+    - body
+    - 10648
+    - 10977
+  label: 三十七中風論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d44.h1s1
+    span:
+    - body
+    - 10977
+    - 11292
+  label: 三十八外感總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d45.h1s1
+    span:
+    - body
+    - 11292
+    - 11627
+  label: 三十九溢飲水腫論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d46.h1s1
+    span:
+    - body
+    - 11627
+    - 11779
+  label: 四十午後發熱論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d47.h1s1
+    span:
+    - body
+    - 11779
+    - 12019
+  label: 四十一癥瘕論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d48.h1s1
+    span:
+    - body
+    - 12019
+    - 12445
+  label: 四十二噎食論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d49.h1s1
+    span:
+    - body
+    - 12445
+    - 12584
+  label: 四十三痿痹論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d50.h1s1
+    span:
+    - body
+    - 12584
+    - 12942
+  label: 四十四自汗論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d51.h1s1
+    span:
+    - body
+    - 12942
+    - 13209
+  label: 四十五幼科論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d52.h1s1
+    span:
+    - body
+    - 13209
+    - 14311
+  label: 四十六用藥分量論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d53.h1s1
+    span:
+    - body
+    - 14311
+    - 14867
+  label: 四十六柴胡醫勞病論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d54.h1s1
+    span:
+    - body
+    - 14867
+    - 15314
+  label: 四十八產後恣用歸芎論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d55.h1s1
+    span:
+    - body
+    - 15314
+    - 15485
+  label: 四十九渴證論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d56.h1s1
+    span:
+    - body
+    - 15485
+    - 15667
+  label: 五十肝鬱用逍遙散論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d57.h1s1
+    span:
+    - body
+    - 15667
+    - 15887
+  label: 五十一升陽散火論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d58.h1s1
+    span:
+    - body
+    - 15887
+    - 16426
+  label: 五十二痰飲用二冬二母六味論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d59.h1s1
+    span:
+    - body
+    - 16426
+    - 16547
+  label: 五十三外感身熱或咳僉用瀉白散論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d60.h1s1
+    span:
+    - body
+    - 16547
+    - 16728
+  label: 五十四眼科恣用發表苦寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d61.h1s1
+    span:
+    - body
+    - 16728
+    - 17015
+  label: 五十五外科恣用苦寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d62.h1s1
+    span:
+    - body
+    - 17015
+    - 17181
+  label: 五十六痘科恣用苦寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d63.h1s1
+    span:
+    - body
+    - 17181
+    - 17858
+  label: 五十七醫方集解不通咸宗之論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d64.h1s1
+    span:
+    - body
+    - 17858
+    - 18156
+  label: 五十八四君子湯論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d65.h1s1
+    span:
+    - body
+    - 18156
+    - 18478
+  label: 五十九腎氣丸論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d66.h1s1
+    span:
+    - body
+    - 18478
+    - 18741
+  label: 六十宋竇材扁鵲心書論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d67.h1s1
+    span:
+    - body
+    - 18741
+    - 18878
+  label: 六十一誤用苦寒反似火症論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d68.h1s1
+    span:
+    - body
+    - 18878
+    - 19282
+  label: 六十二雨水論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d69.h1s1
+    span:
+    - body
+    - 19282
+    - 19747
+  label: 六十三五穀論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d70.h1s1
+    span:
+    - body
+    - 19747
+    - 19848
+  label: 六十四大棗論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d71.h1s1
+    span:
+    - body
+    - 19848
+    - 20073
+  label: 六十五白芍論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d72.h1s1
+    span:
+    - body
+    - 20073
+    - 20295
+  label: 六十六桂枝論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d73.h1s1
+    span:
+    - body
+    - 20295
+    - 20446
+  label: 六十七甘草論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d74.h1s1
+    span:
+    - body
+    - 20446
+    - 20609
+  label: 六十八枳實枳殼論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d75.h1s1
+    span:
+    - body
+    - 20609
+    - 20851
+  label: 六十九細辛論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d76.h1s1
+    span:
+    - body
+    - 20851
+    - 21387
+  label: 七十偽藥論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d77.h1s1
+    span:
+    - body
+    - 21387
+    - 21755
+  label: 七十一雷公炮製論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d78.h1s1
+    span:
+    - body
+    - 21755
+    - 21917
+  label: 七十二引經論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d79.h1s1
+    span:
+    - body
+    - 21917
+    - 21973
+  label: 附一半夏論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d80.h1s1
+    span:
+    - body
+    - 21973
+    - 22091
+  label: 附二醫字論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d81.h1s1
+    span:
+    - body
+    - 22091
+    - 22175
+  label: 附三醫德論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq041_jc_000-d82.h1s1
+    span:
+    - body
+    - 22175
+    - 22554
+  label: 附四醫以明理為要論
+  type: section
+  level: 1
+hash: sha256:42a2a52b1c82d284ba4dd549a4ad188778637f11a170ee4f79f88f1841c7dc34
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
