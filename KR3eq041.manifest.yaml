@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq041_000.yaml, hash: 'sha256:506511cf87e38fda81bd4b151d818577e59f25e9506b640b2e8bd0996845cc18'}
+  - {seq: 0, filename: KR3eq041_000.yaml, hash: 'sha256:6a8bcde071e09ece8734f954d50278d4e0e73322c2da13218340a01735a098a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq041_000.markers.yaml, hash: 'sha256:b6143bcafed037cf160cd5decd809494775eb1a9c58e26ad89b7b8006aab90c6'}
+  - {seq: 0, role: markers, filename: assets/KR3eq041_000.markers.yaml, hash: 'sha256:d156963b9ad0cfd2d434fe400bf7731bcb68c968e8be19dd2f755d0141d6a9b8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -831,7 +831,4 @@ table_of_contents:
   label: 附四醫以明理為要論
   type: section
   level: 1
-hash: sha256:42a2a52b1c82d284ba4dd549a4ad188778637f11a170ee4f79f88f1841c7dc34
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8df25509b798c50ce8a100a1a4328b2fa934e032ee92cbdf4d84a9027a1016c9
