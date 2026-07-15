@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq041/v1
 canonical_location: https://kanripo.org/bkk/KR3eq041/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫醫病書
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq041_000.yaml, hash: 'sha256:6a8bcde071e09ece8734f954d50278d4e0e73322c2da13218340a01735a098a7'}
+  - {seq: 0, filename: KR3eq041_000.yaml, hash: 'sha256:18cac0ba020858fdb82ea37c2ac454f217b8c2623781a367d6ac9753e4fc3330'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq041_000.markers.yaml, hash: 'sha256:d156963b9ad0cfd2d434fe400bf7731bcb68c968e8be19dd2f755d0141d6a9b8'}
+  - {seq: 0, role: markers, filename: assets/KR3eq041_000.markers.yaml, hash: 'sha256:7ea3636e3a27e190fd3e4c367ec098cde5393989f7b764b3742be0b88064e62a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -831,4 +831,7 @@ table_of_contents:
   label: 附四醫以明理為要論
   type: section
   level: 1
-hash: sha256:8df25509b798c50ce8a100a1a4328b2fa934e032ee92cbdf4d84a9027a1016c9
+hash: sha256:dd6d6f09862c817a60e61ada89fec08d1e36bb34b7fa76e5b994651a47c64da8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
